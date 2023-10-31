@@ -1,6 +1,6 @@
 # Logistic Regression for Decision Boundary
 
-This repository contains the implementation of logistic regression models for predicting admission into a university and microchip quality assurance (QA) using test results. The project also demonstrates feature mapping and regularization in logistic regression.
+This repository contains the implementation of logistic regression models in a sample dataset for predicting admission into a university and microchip quality assurance (QA) using test results. The project also demonstrates feature mapping and regularization in logistic regression.
 
 ## Admission Prediction
 
